@@ -1,0 +1,5 @@
+TOKEN = ""
+DATABASE = ""
+PASSWORD = ""
+USER = ""
+HOST = ""
